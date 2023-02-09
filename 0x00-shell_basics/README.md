@@ -8,5 +8,6 @@ Script 5 - A script displayoing the above and user and group ids numerically(n)
 Script 6 - A script that creates a directory
 Script 7 - A script that moves a file 
 Script 8 - A script that deletes a file
-Script 9 - A script that deletes a directory /n
+Script 9 - A script that deletes a directory 
 Script10 - A script that changes the working directory to the previous one
+Script11 - A  script that lists files in a particular order

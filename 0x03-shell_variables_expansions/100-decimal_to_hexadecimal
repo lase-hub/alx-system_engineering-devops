@@ -1,2 +1,2 @@
 #!/bin/bash
-$((10#FF $DECIMAL))
+echo "$((10#FF$DECIMAL))"
